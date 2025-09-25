@@ -37,8 +37,8 @@ Now use the destroying command
 ~~~
 terraform destroy --auto-approve
 ~~~
-<img width="1055" height="607" alt="MobaXterm_GJPqboTFoZ" src="https://github.com/user-attachments/assets/eef50242-d56f-4d90-9c08-80980dcb21c2" />
-
+<img width="1055" height="607" alt="MobaXterm_GJPqboTFoZ" src="https://github.com/user-attachments/assets/eef50242-d56f-4d90-9c08-80980dcb21c2" /> \
+ 
 
 
 Now again go to the browser and refresh the page of localhost:8080
